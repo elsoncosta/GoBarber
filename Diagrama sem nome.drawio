@@ -520,11 +520,8 @@
         <mxCell id="HWtut3ZIkHQCooh8XRnG-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HWtut3ZIkHQCooh8XRnG-220" target="HWtut3ZIkHQCooh8XRnG-204">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-250" y="731" />
-              <mxPoint x="-250" y="800" />
-              <mxPoint x="-570" y="800" />
-              <mxPoint x="-570" y="760" />
-              <mxPoint x="-413" y="760" />
+              <mxPoint x="-590" y="731" />
+              <mxPoint x="-590" y="507" />
             </Array>
           </mxGeometry>
         </mxCell>
