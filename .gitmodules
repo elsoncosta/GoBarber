@@ -1,0 +1,6 @@
+[submodule "Submodulos/NetCoreInfraestrutura"]
+	path = Submodulos/NetCoreInfraestrutura
+	url = git@github.com:elsoncosta/NetCoreInfraestrutura.git
+[submodule "Submodules/NetCoreInfraestrutura"]
+	path = Submodules/NetCoreInfraestrutura
+	url = git@github.com:elsoncosta/NetCoreInfraestrutura.git
